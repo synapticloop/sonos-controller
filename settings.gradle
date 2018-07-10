@@ -1,4 +1,4 @@
-rootProject.name = 'sonoscontroller'
+rootProject.name = 'sonos-controller'
 
 //Include SSDP Client Protocol Library (https://github.com/vmichalak/ssdp-client)
 include ':ssdp-client'
